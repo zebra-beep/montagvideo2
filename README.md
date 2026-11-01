@@ -1,9 +1,10 @@
 # Wiggle-Wiggle, Pop-Pop!
 
-Готовый музыкальный ролик доступен в [Releases](https://github.com/zebra-beep/montagvideo2/releases).
+[Скачать полный ролик — MP4, 174 МБ](https://github.com/zebra-beep/montagvideo2/raw/refs/heads/main/Wiggle-Wiggle-Pop-Pop-FullHD.mp4)
 
-Полная версия: 1080 × 1920, 30 кадров/с, H.264, CRF 16.
+1080 × 1920, 30 кадров/с, H.264, CRF 16.
 Песня сохранена целиком; добавлены яркие субтитры и тихие звуковые акценты.
 Звук исходных сцен исключён.
 
-В релизе размещены MP4 и отдельные субтитры SRT.
+Видео хранится через Git LFS. Используйте ссылку выше или кнопку Download raw file
+на странице видео, а не архив исходников репозитория.
